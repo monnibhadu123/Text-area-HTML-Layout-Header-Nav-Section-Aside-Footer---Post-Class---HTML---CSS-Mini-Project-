@@ -14,24 +14,24 @@
     
 }
 .imgBg2{
-    background-image: url('./images/background.img1.jpg');
+    background-image: url("https://github.com/monnibhadu123/HTML-CSS-Project---HTML-CSS-Mini-Project-University---jatii8mj8cx3/blob/master/food.img.jpeg");
     min-height: 600px;
 }
 .imgBg3{
-    background-image: url(./images/img3.jpg);
+    background-image: url("https://github.com/monnibhadu123/Text-area-HTML-Layout-Header-Nav-Section-Aside-Footer---Post-Class---HTML---CSS-Mini-Project-/blob/master/background.img1.jpg");
     min-height: 600px;
 
 }
 .imgBg4{
-    background-image: url(./images/img4.jpg);
+    background-image: url("https://github.com/monnibhadu123/Text-area-HTML-Layout-Header-Nav-Section-Aside-Footer---Post-Class---HTML---CSS-Mini-Project-/blob/master/img3.jpg");
     min-height: 600px;
 }
 .imgBg5{
-    background-image: url(./images/img5.jpg);
+    background-image: url("https://github.com/monnibhadu123/Text-area-HTML-Layout-Header-Nav-Section-Aside-Footer---Post-Class---HTML---CSS-Mini-Project-/blob/master/img4.jpg");
     min-height: 600px;
 }
 .imgBg6{
-    background-image: url('./images/img6.jpg');
+    background-image: url("https://github.com/monnibhadu123/Text-area-HTML-Layout-Header-Nav-Section-Aside-Footer---Post-Class---HTML---CSS-Mini-Project-/blob/master/img6.jpg");
     min-height: 300px;
 }
 .imgBg1,
